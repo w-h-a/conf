@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: "339936612855.dkr.ecr.us-east-1.amazonaws.com/helloworld:v1.6.2"
+        image: "339936612855.dkr.ecr.us-east-1.amazonaws.com/helloworld:v1.6.3"
         args:
         - -msg=Ahoy
         ports:
